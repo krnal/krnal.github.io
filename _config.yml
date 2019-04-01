@@ -1,0 +1,13 @@
+﻿title: krnl.in
+description: URL Shortener
+logo: /assets/img/logo.png
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
+
+#repository: hlaueriksson/jekyll-url-shortener
